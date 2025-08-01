@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27779970-cbf0-42d6-932e-404b6a25add7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Actividad12.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manejo_excepciones.py" afterDir="false" />
-    </list>
+    <list default="true" id="27779970-cbf0-42d6-932e-404b6a25add7" name="Changes" comment="Primer push" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,6 +51,19 @@
       <option name="presentableId" value="Default" />
       <updated>1754062203026</updated>
     </task>
+    <task id="LOCAL-00001" summary="Primer push">
+      <option name="closed" value="true" />
+      <created>1754063300735</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1754063300735</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primer push" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primer push" />
   </component>
 </project>

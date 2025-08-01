@@ -18,8 +18,8 @@ for i in range(num_students):
         except ValueError:
             print("Por favor, ingrese un numero valido")
         else:
-            for i in range(notes_amount):
-                print(f"Registro de la nota #{i+1}")
+            for j in range(notes_amount):
+                print(f"Registro de la nota #{j+1}")
 
 
 
